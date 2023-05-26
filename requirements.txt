@@ -24,4 +24,4 @@ psycopg2==2.9.5
 rq-scheduler==0.11.0
 segno==1.5.2
 swagger-spec-validator==3.0.3
-typing-extensions==4.4.0
+typing-extensions==4.6.2
